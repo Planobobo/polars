@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+    margin:0;
+    padding: 0;
+}
+header{
+    width: 80%;
+    height: 100px;
+    background-color: burlywood;
+    margin: 0 auto;
+    box-shadow: 0px 8px 8px rgba(55,55,55,0.5)
+}
+#contenu{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(20,10, 5,0.1);
+}
+.titrePage{
+    color:crimson; 
+    padding: 10px;
+    text-align: center;
+}
+.titre{
+    margin-top: 20px;
+    background-color: darkkhaki;
+    color: darkslateblue;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 40px;
+    line-height: 40px;
+}
+.containerPolar{
+    display: flex;
+}
+.textePolar{
+    color: rgb(80,80,80);
+    font-size: 1.1rem;
+    padding: 10px;
+    border-bottom: 2px dotted rgba(55,55,55,0.2);
+    
+}
+.imagePolar{
+    width: 200px;
+    padding: 10px;
+    
+    
+}
